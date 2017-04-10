@@ -19,7 +19,7 @@ const RouterComponent = () => {
                     title="Employees" 
                     rightTitle="Add"
                     onRight={() => Actions.employeeCreate()}
-                    inital
+                    initial
                 />
 
                 <Scene
